@@ -1,5 +1,3 @@
-package Exception_Handling_TapAcademy;
-
 import java.util.Scanner;
 
 class Test1 {
