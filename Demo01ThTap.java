@@ -1,5 +1,3 @@
-package Multithreading_TapAcademy;
-
 public class Demo01ThTap {
 
 	public static void main(String[] args) throws InterruptedException {
