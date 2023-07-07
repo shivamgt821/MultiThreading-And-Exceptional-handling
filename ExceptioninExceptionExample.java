@@ -1,4 +1,4 @@
-public class ExceptioninExceptionExample {
+public class ExceptionExample {
 
 	public static void main(String[] args) {
 		try {
