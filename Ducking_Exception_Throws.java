@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Demo01 {
-	void fun() throws Exception {
+	void fun() throws Exception  {
 		System.out.println("Connection 2 is establised");
 		Scanner scn = new Scanner(System.in);
 		System.out.println("Enter the numerator");
